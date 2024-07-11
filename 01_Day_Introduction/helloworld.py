@@ -19,3 +19,14 @@ print(type([1, 2, 3]))           # List
 print(type({'name':'Asabeneh'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
+# Print Strings
+
+print('ange') # Your name
+print ('yen') # Your family name
+print ('New Zealand') # Your country
+print ('I am enjoying 30 days of python') # I am enjoying 30 days of python
+
+# Echlidian Distance
+
+print((2 ** 2 + 3 ** 2) / 0.5)
+print((10 ** 2 + 8 ** 2) / 0.5)
